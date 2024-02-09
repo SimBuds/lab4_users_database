@@ -1,4 +1,7 @@
 # Dependencies
+/node_modules
+/package-lock.json
 
-./node_modules
-./package-lock.json
+# IDE/Editor folders
+.vscode
+.idea
